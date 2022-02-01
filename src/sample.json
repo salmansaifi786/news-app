@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 7537,
+    "articles": [
+        {  
+            "source": {
+                "id": null,
+                "name": "Askubuntu.com"
+            },
+            "author": "Silicomancer",
+            "title": "Get rid of Xorg processes on Tesla card",
+            "description": "I am running a Workstation with two GPU boards. One older AMD board connected to my screens and a Tesla K80 for CUDA development. After installing Kubuntu 21.10 I have some problems like kernel launch timeouts and failed launches. Also I can not reset the K80…",
+            "url": "https://askubuntu.com/questions/1389933/get-rid-of-xorg-processes-on-tesla-card",
+            "urlToImage": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+            "publishedAt": "2022-01-29T14:01:32Z",
+            "content": "I am running a Workstation with two GPU boards. One older AMD board connected to my screens and a Tesla K80 for CUDA development. After installing Kubuntu 21.10 I have some problems like kernel launc… [+742 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Daniel Foelber and John Rosevear)",
+            "title": "Tesla Stock Down 22%: Bull vs. Bear",
+            "description": "The EV kingpin's 2021 performance included record-high sales, earnings, free cash flow, and operating margin.",
+            "url": "https://www.fool.com/investing/2022/01/29/tesla-stock-down-big-bull-vs-bear/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/663324/1-tesla-roadster.jpeg",
+            "publishedAt": "2022-01-29T13:41:00Z",
+            "content": "Tesla (NASDAQ:TSLA) stock was up more than 10% year-to-date when it released better-than-expected Q4 and full-year production and delivery numbers in early January. Now, the electric car stock is dow… [+7363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizchina.com"
+            },
+            "author": "Argam Artashyan",
+            "title": "Apple Could Overcome Supply Chain Issues, But Others Can’t",
+            "description": "Recently, Apple announced its fourth-quarter results that showed how well the company performs. It’s a bit strange in the picture of total declines and shortages. ...\nThe post Apple Could Overcome Supply Chain Issues, But Others Can’t appeared first on Gizchi…",
+            "url": "https://www.gizchina.com/2022/01/29/apple-could-overcome-supply-chain-issues-but-others-cant/",
+            "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2021/11/Apple3-14-20AP-1880x1254-1-1024x683.jpg",
+            "publishedAt": "2022-01-29T13:34:40Z",
+            "content": "Recently, Apple announced its fourth-quarter results that showed how well the company performs. Its a bit strange in the picture of total declines and shortages. But we are talking about the worlds m… [+2871 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (John Bromels)",
+            "title": "The Biggest Industrial Trend Tesla and Others Are Following",
+            "description": "Are tech innovations making industrial stocks less \"industrial\"?",
+            "url": "https://www.fool.com/investing/2022/01/29/the-biggest-industrial-trend-tesla-and-others-are/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/663588/electrified-blueprint-of-a-vehcile-getty-images.jpg",
+            "publishedAt": "2022-01-29T13:30:00Z",
+            "content": "Technological advancements have made it more difficult to classify stocks as solely industrial -- take Tesla(NASDAQ:TSLA), for instance. Considering its innovation in and adoption of different techno… [+2615 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CarScoops"
+            },
+            "author": "Sebastien Bell",
+            "title": "2022 Mercedes EQS Fares Poorly In Moose Test Because Of Its Weight",
+            "description": "Despite four-wheel steering, the Mercedes EQS's weight prevents it from keeping up with the lighter S-Class",
+            "url": "https://www.carscoops.com/2022/01/2022-mercedes-eqs-fares-poorly-in-moose-test-because-of-its-weight/",
+            "urlToImage": "https://www.carscoops.com/wp-content/uploads/2022/01/2022-Mercedes-EQS-580-moose-test.jpg",
+            "publishedAt": "2022-01-29T13:28:26Z",
+            "content": "The new Mercedes-Benz EQS 580 has been through the moose test by Spain’s km77.com to determine how well the electric sedan handles emergency maneuvers on the highway and the results were poor, accord… [+1847 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Steven W. Mosher",
+            "title": "China’s draconian one-child policy has led to a disastrous baby bust",
+            "description": "The National Bureau of Statistics reported that only 10.62 million babies were born last year, down from 12.02 million in 2020, and the lowest number in recorded history.",
+            "url": "https://nypost.com/2022/01/29/chinas-one-child-policy-has-led-to-a-disastrous-baby-bust/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/china-children.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-01-29T13:05:37Z",
+            "content": "Birth rates in China are in free fall. And the all-powerful Communist Party of China seems powerless to do anything about it.\r\nThe National Bureau of Statistics reported that only 10.62 million babie… [+4774 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Wall Street Breakfast",
+            "title": "Wall Street Breakfast: What Moved Markets",
+            "description": "Listen on the go! A daily podcast of Wall Street Breakfast will be available every morning on Seeking Alpha, iTunes, Stitcher and Spotify.",
+            "url": "https://seekingalpha.com/article/4482738-wall-street-breakfast-what-moved-markets",
+            "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+            "publishedAt": "2022-01-29T13:01:02Z",
+            "content": "Listen on the go! A daily podcast of Wall Street Breakfast will be available every morning on Seeking Alpha, iTunes, Stitcher and Spotify.\r\nStocks ended on a high note Friday with a furious late rall… [+12045 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Oscar Gonzalez",
+            "title": "GameStop: What happened after everyday stock traders rocked Wall Street",
+            "description": "From Robinhood to r/WallStreetBets, here's where they are now.",
+            "url": "https://www.cnet.com/news/gamestop-what-happened-after-everyday-stock-traders-rocked-wall-street/",
+            "urlToImage": "https://www.cnet.com/a/img/wijmT3p30CVGU_h0aKY4Z2490A4=/1200x630/2022/01/28/231f37bf-6375-4a93-b2bf-e76d68fc6cfa/gettyimages-1236771707.jpg",
+            "publishedAt": "2022-01-29T13:00:29Z",
+            "content": "It was a wild ride to the moon and back.\r\nGetty Images\r\nA year ago, GameStop commanded the attention of everyone. The struggling video game retailer's shares soared to stratospheric heights, creating… [+8241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Andrew Evers, Lora Kolodny",
+            "title": "Electric vehicle fires are rare, but hard to fight — here's why",
+            "description": null,
+            "url": "https://www.cnbc.com/2022/01/29/electric-vehicle-fires-are-rare-but-hard-to-fight-heres-why.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106905792-1625177109302-Tesla-fire-PA1.jpg?v=1625234854",
+            "publishedAt": "2022-01-29T13:00:01Z",
+            "content": "Electric vehicles provide a path to better air quality, reduced fuel costs and comprise a growing new category for automakers. But with the transition to electric transportation comes a new challenge… [+3226 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Eileen Falkenberg-Hull",
+            "title": "Tesla, Subaru Top J.D. Power's Annual List of Best Automaker Apps",
+            "description": "Automaker apps are growing more popular thanks to new high-tech features.",
+            "url": "https://www.newsweek.com/tesla-subaru-top-jd-powers-annual-list-best-automaker-apps-1673320",
+            "urlToImage": "https://d.newsweek.com/en/full/1975709/2020-hyundai-sonata-phone-key.jpg",
+            "publishedAt": "2022-01-29T13:00:01Z",
+            "content": "The annual U.S. OEM ICE App Benchmark Study by J.D. Power has revealed which automakers have the best mobile apps. Tesla, Subaru, Genesis, Volvo and Hyundai came out on top of the 32 brands studied.\r… [+1535 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Substack.com"
+            },
+            "author": "Ross Hendricks",
+            "title": "The Pandemic Boom Goes Bust",
+            "description": "The Music of Today’s Mania is Slowing… Find a Chair Before it Stops",
+            "url": "https://therossreport.substack.com/p/the-pandemic-boom-goes-bust",
+            "urlToImage": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F266798db-7f59-4217-b7b6-716083086633_724x483.jpeg",
+            "publishedAt": "2022-01-29T12:35:19Z",
+            "content": "Welcome to the great fiscal hangover.\r\nOver the last 18 months, the U.S. economy enjoyed the greatest stimulus infusion of all time. More than $5 trillion was borrowed and injected directly into the … [+15255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WGN TV Chicago"
+            },
+            "author": "Russell Falcon, Nexstar Media Wire",
+            "title": "Elon Musk calls Biden 'damp sock puppet' for EV comments excluding Tesla",
+            "description": "The CEO, estimated to be the richest person in the world and worth $222 billion, has been a frequent critic of Biden and his energy policies, despite originally saying he was excited about the new administration's climate perspectives.",
+            "url": "https://wgntv.com/news/elon-musk-calls-biden-damp-sock-puppet-for-ev-comments-excluding-tesla/",
+            "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2022/01/GettyImages-1228323411.jpg?w=1280",
+            "publishedAt": "2022-01-29T12:26:15Z",
+            "content": "(NEXSTAR) A perceived snub from President Joe Biden has Tesla CEO Elon Musk making a fuss. It began Thursday, when Biden commended auto manufacturers General Motors and Ford for increased U.S.-based … [+1251 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Politicopro.com"
+            },
+            "author": "Sam Sutton",
+            "title": "Emboldened crypto industry plots legal assault on SEC",
+            "description": "Cryptocurrency payments firm Ripple has started to rack up procedural court victories as it fends off the SEC in a case that could redefine how the agency polices digital assets.",
+            "url": "https://subscriber.politicopro.com/article/2022/01/emboldened-crypto-industry-plots-legal-assault-on-sec-00002580",
+            "urlToImage": null,
+            "publishedAt": "2022-01-29T12:07:17Z",
+            "content": "As a lawyer, youre kind of trained and taught to not pick fights with regulators,\" Ripple general counsel Stuart Alderoty said in an interview. \"But we didnt pick a fight with a regulator, the regula… [+6222 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STLtoday.com"
+            },
+            "author": "By Joseph White and Paul Lienert Reuters",
+            "title": "Ford, GM juggle today's challenges with tomorrow's promises",
+            "description": "The two Detroit automakers are in mid-leap between a combustion-powered present, and a future they have promised will be defined by electric vehicles and software-powered services.",
+            "url": "https://www.stltoday.com/business/local/ford-gm-juggle-todays-challenges-with-tomorrows-promises/article_8cad4719-d15b-5875-8807-1f64753ce9f7.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/ca/8cad4719-d15b-5875-8807-1f64753ce9f7/61f4a01a48123.preview.jpg?crop=341%2C341%2C85%2C0&resize=200%2C200&order=crop%2Cresize",
+            "publishedAt": "2022-01-29T12:00:00Z",
+            "content": "DETROIT General Motors Co. and Ford Motor Co. are expected to report next week they turned solid profits for the last quarter of 2021, but rarely has past performance mattered less to investors.\r\nThe… [+2804 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Mark Roussin",
+            "title": "My Top Dividend Stocks For 2022",
+            "description": "Dividend Stocks are one of my favorite forms of passive income to invest in on a regular basis. We will discuss the top 10 Dividend Stocks I will be looking to buy or add to in 2022.",
+            "url": "https://seekingalpha.com/article/4482246-my-top-dividend-stocks-for-2022",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1297492947/image_1297492947.jpg?io=getty-c-w750",
+            "publishedAt": "2022-01-29T12:00:00Z",
+            "content": "RomoloTavani/iStock via Getty Images\r\nDividend investing is a passion of mine and it happens to be a great form of passive income. When I talk with new clients looking to get their finances in order,… [+15150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Trevor Jennewine)",
+            "title": "3 Autonomous Driving Technologies Investors Must Know About in 2022",
+            "description": "Find out what Tesla, Waymo, Cruise and others are working on in the self-driving vehicle space.",
+            "url": "https://www.fool.com/investing/2022/01/29/3-autonomous-driving-technologies-investors-must-k/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/663628/gettyimages-600403094_LwjV9CT.jpg",
+            "publishedAt": "2022-01-29T12:00:00Z",
+            "content": "While Tesla is taking a camera-based vision approach to developing its self-driving vehicle technology, Waymo and other leaders in the space are using high-definition maps to build a fully autonomous… [+3443 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crossway.org"
+            },
+            "author": "Tony Reinke",
+            "title": "Innovation Exists by God’s Design",
+            "description": "Innovators—both virtuous ones and nefarious ones—are created by God. Scripture protects us from the myth that God is trying his best to stifle and subdue the unwieldiness of human technology.",
+            "url": "https://www.crossway.org/articles/innovation-exists-by-gods-design/",
+            "urlToImage": "https://static.crossway.org/articles/images/Innovation_Exists_2.png",
+            "publishedAt": "2022-01-29T12:00:00Z",
+            "content": "Innovators Create by Divine Appointment\r\nMany of the sharpest Christians, who rightly celebrate Gods providential governance over all things, tend to wrongly assume (in practice) that his reign ends … [+6797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizchina.com"
+            },
+            "author": "Efe Udin",
+            "title": "Tesla Model 3 recalled in large numbers due Trunk Lid Harness issues",
+            "description": "Information on Tesla’s official website shows that the company is voluntarily recalling some Tesla Model 3 cars. This recall applies to models that were manufactured between ...\nThe post Tesla Model 3 recalled in large numbers due Trunk Lid Harness issues app…",
+            "url": "https://www.gizchina.com/2022/01/29/tesla-model-3-recalled-in-large-numbers-due-to-a-minor-issue/",
+            "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2022/01/Tesla-Model-3-1024x769.png",
+            "publishedAt": "2022-01-29T11:55:01Z",
+            "content": "Information on Tesla’s official website shows that the company is voluntarily recalling some Tesla Model 3 cars. This recall applies to models that were manufactured between the period from October 4… [+2583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Notebookcheck.net"
+            },
+            "author": "Polly Allcock",
+            "title": "Tesla releases microphone for in-car karaoke alongside Chinese New Year update",
+            "description": "Tesla has released a new gadget, the TeslaMic, with its Chinese New Year software update. The device can be used to play karaoke in your car, with the Leishi KTV app included in the update.",
+            "url": "https://www.notebookcheck.net/Tesla-releases-microphone-for-in-car-karaoke-alongside-Chinese-New-Year-update.596369.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Untitled_design_5.png",
+            "publishedAt": "2022-01-29T11:32:00Z",
+            "content": "Working For Notebookcheck\r\nAre you a techie who knows how to write? Then join our Team! English native speakers welcome! \r\nNews Writer (AUS/NZL based) - Details here\r\nGerman-English-Translator - Deta… [+1399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Sergei Klebnikov, Forbes Staff, \n Sergei Klebnikov, Forbes Staff\n https://www.forbes.com/sites/sergeiklebnikov/",
+            "title": "Elon Musk And The Other Billionaires Whose Fortunes Fell This Week As Tech Stocks Continue To Struggle",
+            "description": "The founders of Tesla, Oracle and Airbnb lost billions of dollars this week amid surging market volatility and continued pressure on tech stocks.",
+            "url": "https://www.forbes.com/sites/sergeiklebnikov/2022/01/29/elon-musk-and-the-other-billionaires-whose-fortunes-fell-this-week-as-tech-stocks-continue-to-struggle/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/61f4716e33a03ae7bf9b0cb2/0x0.jpg?format=jpg&crop=1918,1079,x0,y0,safe&fit=crop",
+            "publishedAt": "2022-01-29T11:30:00Z",
+            "content": "THE CHANGING FORTUNES OF THE WORLDS RICHEST \r\nThe founders of Tesla, Oracle and Airbnb lost billions of dollars this week amid surging market volatility and continued pressure on tech stocks.\r\nD\r\nesp… [+4459 chars]"
+        }
+    ]
+}
