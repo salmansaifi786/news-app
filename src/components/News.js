@@ -67,14 +67,14 @@ export class News extends Component {
     }
   }
   async componentDidMount(){
-    let url =`https://newsapi.org/v2/top-headlines?country=in&apiKey=54be4ffe91b6427e80e302e4323a38b9&page=1&pageSize=${this.props.pagesize}`;
+    let url =`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=54be4ffe91b6427e80e302e4323a38b9&page=1&pageSize=${this.props.pagesize}`;
     let data = await fetch(url);
     let parsedData= await data.json();
     console.log(parsedData)
     this.setState({articles:parsedData.articles});
   }
    handlePClick= async ()=>{
-    let url =`https://newsapi.org/v2/top-headlines?country=in&apiKey=54be4ffe91b6427e80e302e4323a38b9&page=${this.state.page-1}&pageSize=${this.props.pagesize}`;
+    let url =`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=54be4ffe91b6427e80e302e4323a38b9&page=${this.state.page-1}&pageSize=${this.props.pagesize}`;
     let data = await fetch(url);
     let parsedData= await data.json();
     this.setState({
@@ -83,7 +83,7 @@ export class News extends Component {
     })
   }
   handleNClick= async ()=>{
-    let url =`https://newsapi.org/v2/top-headlines?country=in&apiKey=54be4ffe91b6427e80e302e4323a38b9&page=${this.state.page+1}&pageSize=${this.props.pagesize}`;
+    let url =`https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=54be4ffe91b6427e80e302e4323a38b9&page=${this.state.page+1}&pageSize=${this.props.pagesize}`;
     let data = await fetch(url);
     let parsedData= await data.json();
     this.setState({
@@ -95,12 +95,12 @@ export class News extends Component {
   render() {
     return (
       <div className="container my-3">
-        <h2>News of the day</h2>
-        {this.state.loading && <Spinner />}
+        <h2 className='text-center'>News of the day</h2>
+        {/* {this.state.loading && <Spinner />} */}
         <div className="row my-3">
         {this.state.articles.map((element)=>{  
          return <div className="col-md-4 my-3"  key={element.url}>
-          <NewsItem title={element.title?element.title.slice(0,45)+"....":""} description={element.description?element.description.slice(0,90)+"...":""} imageUrl={element.urlToImage} url={element.url}/>
+          <NewsItem author={element.author} date={element.publishedAt} title={element.title?element.title.slice(0,45)+"....":""} description={element.description?element.description.slice(0,90)+"...":""} imageUrl={element.urlToImage} url={element.url}/>
           </div>
         
         })} </div>
